@@ -1,0 +1,14 @@
+{
+    "name": "xiangziyfx/think",
+    "description": "project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiangzi",
+            "email": "yuafu.xinag@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
